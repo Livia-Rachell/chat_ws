@@ -1,5 +1,6 @@
 html, body {
     height: 100%;
+    font-family: 'Kalam', cursive;
   }
   
   * {
@@ -8,31 +9,47 @@ html, body {
     box-sizing: border-box;
   }
   
+  .bg {
+    height: 100%;
+    background-image: url("./img/Bandas.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    filter: blur(5px) grayscale(30%);
+    z-index: -1;
+  }
+
   #chat {
     height: 100%;
+    top: 50%;
+    left: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    position: absolute;
+    z-index: 2;
+    transform: translate(-50%, -50%);
   }
   
   input {
     width: 600px;
-    border: 1px solid #ddd;
+    border: 1px solid #d4d4d4;
     height: 50px;
     padding: 0 20px;
     font-size: 14px;
+    font-family: 'Kalam', cursive;
   }
   
   button {
     width: 600px;
     height: 50px;
     font-size: 14px;
-    background: #069;
+    background: #C06D6F;
     text-align: center;
     line-height: 50px;
     font-weight: bold;
-    color: #FFF;
+    color: #d4d4d4;
     margin-top: 10px;
   }
   
@@ -40,6 +57,13 @@ html, body {
     width: 600px;
     height: 400px;
     margin: 20px 0;
-    border: 1px solid #ddd;
+    border: 1px solid #d4d4d4;
     padding: 20px;
+    background-color: rgba(255, 255, 255, 0.7);
+  }
+
+  .userdiv {
+    color: #d4d4d4;
+    display: grid;
+    font-size: x-large;
   }
