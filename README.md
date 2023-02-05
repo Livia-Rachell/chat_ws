@@ -14,7 +14,7 @@ Acesse o serviço de chat em seu navegador em `http://localhost:3000`. Você pod
 
 ## Contribuição
 
-Este projeto é open-source e foi desenvolvido em colaboração com os usuários @alcides07 e @IsraelKleber. Todas as contribuições são bem-vindas. Por favor, siga as boas práticas de contribuição e crie uma solicitação de pull com as suas alterações.
+Este projeto é open-source e foi desenvolvido em colaboração com os usuários [@alcides07](https://github.com/alcides07) e [@israelkleber](https://github.com/israelkleber). Todas as contribuições são bem-vindas. Por favor, siga as boas práticas de contribuição e crie uma solicitação de pull com as suas alterações.
 
 ## Licença
 
