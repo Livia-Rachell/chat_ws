@@ -18,4 +18,4 @@ Este projeto é open-source e foi desenvolvido em colaboração com os usuários
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais informações.
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](https://opensource.org/licenses/MIT) para obter mais informações.
